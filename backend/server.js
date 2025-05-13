@@ -16,7 +16,7 @@ const corsOptions = {
   origin: [
     'http://localhost:3000',
     'http://localhost:5173',
-    'https://your-production-frontend-url.com' // ← Replace with actual frontend deployment URL
+    'https://github.com/OliphantMofolo25/backend-credit.git' 
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
